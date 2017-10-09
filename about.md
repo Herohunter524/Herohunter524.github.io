@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A stegosaurous is not a diplodocus
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I never did find my super suit...
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[lewis.fee@challoners.org](mailto:lewis.fee@challoners.org)
